@@ -6,6 +6,8 @@ Images: They have an insta and Fb page, We'll take from that (which I'll add her
 
 Logo: The one in ppt
 
+Caption: Forget your troubles,travel with us
+
 ## Spl Reqests:
 - 1. Make a professional mail id if possible
 - 2. An option to send mail directly from site. (like a review column or someething)
