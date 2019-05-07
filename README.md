@@ -41,3 +41,4 @@ paisa increase aakiko.. nokkitu. njan night nokkam.
 
 #noted 07-05-2019
 we can do form for sending mailfrom website. we can start asap
+you can increase the rate till 20k if they are not botherd about money. just talk about forms and those kind of things
