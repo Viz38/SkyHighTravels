@@ -37,3 +37,7 @@ They are very new to this and don't know anything about this.
 (athyavisham ootam)
 
 paisa increase aakiko.. nokkitu. njan night nokkam.
+
+
+#noted 07-05-2019
+we can do form for sending mailfrom website. we can start asap
