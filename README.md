@@ -6,6 +6,8 @@ Images: They have an insta and Fb page, We'll take from that (which I'll add her
 
 Logo: The one in ppt
 
+Time: we have 2 weeks deadline. We'll start today itself if you are free?
+
 Caption: Forget your troubles,travel with us
 
 ## Domain Price List:
