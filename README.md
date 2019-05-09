@@ -41,37 +41,25 @@ They are very new to this and don't know anything about this.
 paisa increase aakiko.. nokkitu. njan night nokkam.
 
 
-#noted 07-05-2019
+# noted 07-05-2019
 we can do form for sending mailfrom website. we can start asap
 you can increase the rate till 20k if they are not botherd about money. just talk about forms and those kind of things
 
-######TODO 09-05-19
+## TODO 09-05-19
 
-1) check with them which domain name they want and increase both domain and after charge from our side before proceed
+- check with them which domain name they want and increase both domain and after charge from our side before proceed
    eg: 600 domain charge = 700 after year 900 = 1200 like this bit
  
-2) we can select a theme from theme forest and update i will look ppt today and based on that i will share theme.
+- we can select a theme from theme forest and update i will look ppt today and based on that i will share theme.
 
-3) within sunday we can make it running and before 2 days og deadline we can deliver this. let me check with this
+- within sunday we can make it running and before 2 days og deadline we can deliver this. let me check with this
 
- NOTE: furthure details i will sahre with you first we will complete these things
+ #### NOTE: furthure details i will sahre with you first we will complete these things
 
-4) for making forms which send customer message directly to mail we can charge 2k. plus website charge.
+- for making forms which send customer message directly to mail we can charge 2k. plus website charge.
 
 *got some cool site all free*
-
 main url : https://colorlib.com/wp/free-travel-website-templates/
 
 
-https://colorlib.com/preview/theme/taxa/contact.html
-
-https://colorlib.com/preview/#direngine
-
-https://colorlib.com/preview/theme/voyage/
-
-https://colorlib.com/preview/#travel
-
-note : i like these 4 rest i didnt check , check from your side and we will select and finish it by sunday if possible.
-
-
-#############
+# [THIS IS PERFECT !!](https://colorlib.com/preview/theme/taxa/contact.html)
