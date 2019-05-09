@@ -58,4 +58,20 @@ you can increase the rate till 20k if they are not botherd about money. just tal
 
 4) for making forms which send customer message directly to mail we can charge 2k. plus website charge.
 
+*got some cool site all free*
+
+main url : https://colorlib.com/wp/free-travel-website-templates/
+
+
+https://colorlib.com/preview/theme/taxa/contact.html
+
+https://colorlib.com/preview/#direngine
+
+https://colorlib.com/preview/theme/voyage/
+
+https://colorlib.com/preview/#travel
+
+note : i like these 4 rest i didnt check , check from your side and we will select and finish it by sunday if possible.
+
+
 #############
