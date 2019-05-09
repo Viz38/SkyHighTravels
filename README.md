@@ -6,7 +6,7 @@ Images: They have an insta and Fb page, We'll take from that (In img folder)
 
 Logo: The one in ppt (in Images folder)
 
-Time: we have 2 weeks deadline. We'll start today itself if you are free?
+Deadline: 20 May 2019
 
 Caption: Forget your troubles,travel with us
 
