@@ -54,3 +54,5 @@ you can increase the rate till 20k if they are not botherd about money. just tal
 
 
 # [THIS TEMPLATE IS PERFECT !!](https://colorlib.com/preview/theme/taxa/contact.html)
+- We'll remove blog 
+- remove pages and will make it about
