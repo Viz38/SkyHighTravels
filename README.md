@@ -50,7 +50,7 @@ you can increase the rate till 20k if they are not botherd about money. just tal
  #### NOTE: furthure details i will sahre with you first we will complete these things
 
 *got some cool site all free*
-main url : https://colorlib.com/wp/free-travel-website-templates/
+[main url](https://colorlib.com/wp/free-travel-website-templates/]
 
 
 # [THIS TEMPLATE IS PERFECT !!](https://colorlib.com/preview/theme/taxa/contact.html)
