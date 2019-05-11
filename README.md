@@ -56,3 +56,6 @@ you can increase the rate till 20k if they are not botherd about money. just tal
 # [THIS TEMPLATE IS PERFECT !!](https://colorlib.com/preview/theme/taxa/contact.html)
 - We'll remove blog 
 - remove pages and will make it about
+
+# good selection we will start with this [11-05-2019].
+if possible download and up the code here and we will make a branch and start. we have a discussion before start so after exam text me we will talk
