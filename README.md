@@ -17,8 +17,8 @@ Skyhightravels.co -
 
 ## Spl Reqests:
 
-- 1. Make a professional mail id if possible (will get with domain)
-- 2. An option to send mail directly from site. (like a review column or something)
+- Make a professional mail id if possible (will get with domain)
+- An option to send mail directly from site. (like a review column or something)
 
  #### NOTE: furthure details i will sahre with you first we will complete these things
 
