@@ -26,6 +26,5 @@ Skyhightravels.co -
 [main url](https://colorlib.com/wp/free-travel-website-templates/)
 
 
-# Mod to do later
-- We'll remove 'blog' (from nav bar)
-- remove 'pages' and will make it 'about' (from nav bar)
+# Mod to do
+- Logo need to be made a PNG
