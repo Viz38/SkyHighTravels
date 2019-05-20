@@ -31,5 +31,5 @@ Skyhightravels.co -
 - Office time
 - Any 4 customer name or any randon 4 names to give in review section
 
-# Add price split here (We'll quote 20k) (in brackets give original price for our reference)
+### Add price split here (We'll quote 20k) (in brackets give original price for our reference)
 - Domain (3663.30₹):4000₹
