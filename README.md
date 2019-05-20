@@ -2,11 +2,11 @@
 
 Name: SkyHighTravels
 
-Images: They have an insta and Fb page, We'll take from that (In img folder)
+Images: Added
 
 Logo: The one in ppt (in Images folder)
 
-Deadline: 20 May 2019
+Deadline: 25 May 2019
 
 Caption: Forget your troubles,travel with us
 
@@ -14,11 +14,6 @@ Caption: Forget your troubles,travel with us
 
 Skyhightravels.co - 
 829₹ for 1 yrs + ₹2,239.00/yr (As on Godaddy.com)
-
-## Spl Reqests:
-
-- Make a professional mail id if possible (will get with domain)
-- An option to send mail directly from site. (like a review column or something)
 
  #### NOTE: furthure details i will sahre with you first we will complete these things
 
@@ -28,3 +23,13 @@ Skyhightravels.co -
 
 # Mod to do
 - Logo need to be made a PNG
+
+# Data needs to be recieved
+- Logo in png
+- Team member names and Pic
+- Office contact number
+- Office time
+- Any 4 customer name or any randon 4 names to give in review section
+
+# Add price split here (We'll quote 20k) (in brackets give original price for our reference)
+- Domain (3663.30₹):4000₹
