@@ -13,8 +13,27 @@ Caption: Forget your troubles,travel with us
 # *got some cool site all free*
 [main url](https://colorlib.com/wp/free-travel-website-templates/)
 
-# Mod to do
+# Remaining work
+## Home Section
 - Logo need to be made a PNG
+- Images needs to be changed
+- Add services offered
+- Remove review images add proper names and reviews
+- Remove newsletter from footer
+## Packages Section
+- Images needs to be changed
+- Add services offered
+- Add more packages details (I have the data)
+- Remove newsletter from footer
+## AboutUs Section
+- Team pic and names
+- Remove review images add proper names and reviews
+- Remove newsletter from footer
+## Contact Section
+- Add maps (given request to google, waiting for response)
+- Add office phone number and office timeing
+- Remove send mail and make 2 buttons insted. "Call us" and "Maill us" button at the new gap
+- Remove newsletter from footer
 
 # Data needs to be recieved
 - Logo in png
