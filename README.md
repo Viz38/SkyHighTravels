@@ -6,7 +6,7 @@ Images: Added
 
 Logo: The one in ppt (in Images folder)
 
-Deadline: 25 May 2019
+Deadline: 27 May 2019
 
 Caption: Forget your troubles,travel with us
 
@@ -14,32 +14,25 @@ Caption: Forget your troubles,travel with us
 [main url](https://colorlib.com/wp/free-travel-website-templates/)
 
 # Remaining work
+- Favicon needs to be changed
 ## Home Section
 - Logo need to be made a PNG
 - Images needs to be changed
-- Add services offered
+- Add services offered (one more box remaining)
 - Remove review images add proper names and reviews
-- Remove newsletter from footer
 ## Packages Section
 - Images needs to be changed
-- Add services offered
 - Add more packages details (I have the data)
-- Remove newsletter from footer
 ## AboutUs Section
 - Team pic and names
 - Remove review images add proper names and reviews
-- Remove newsletter from footer
 ## Contact Section
 - Add maps (given request to google, waiting for response)
-- Add office phone number and office timeing
 - Remove send mail and make 2 buttons insted. "Call us" and "Maill us" button at the new gap
-- Remove newsletter from footer
 
 # Data needs to be recieved
 - Logo in png
 - Team member names and Pic
-- Office contact number
-- Office time
 - Any 4 customer name or any randon 4 names to give in review section
 
 ### Add price split here (We'll quote 20k) :
