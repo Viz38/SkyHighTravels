@@ -28,7 +28,7 @@ Caption: Forget your troubles,travel with us
 ## Packages Section
 
 - Images needs to be changed
-- Add more packages details (I have the data)
+- Add more packages details (I have the data) 
 
 ## AboutUs Section
 
@@ -51,3 +51,7 @@ Caption: Forget your troubles,travel with us
 #### (in brackets give original price for our reference)
 
 - Domain (3663.30₹): 4000₹
+
+### navabra issue
+
+alignment changed to center as in default website. if we change logo lookwise it will become perfect , ask for logo or else tell them we will make logo. from my kannur office there is one designer he will make. this one is worst one which we are using so just talk to them and see. 
