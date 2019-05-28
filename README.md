@@ -23,27 +23,23 @@ Caption: Forget your troubles,travel with us
 - Logo need to be made a PNG
 - Images needs to be changed
 - Add services offered (one more box remaining)
-- Remove review images add proper names and reviews
 
 ## Packages Section
 
 - Images needs to be changed
-- Add more packages details (I have the data) 
 
 ## AboutUs Section
 
-- Team pic and names
-- Remove review images add proper names and reviews
+- Team pic
 
 ## Contact Section
 
 - Add maps (given request to google, waiting for response)
-- Remove send mail and make 2 buttons insted. "Call us" and "Maill us" button at the new gap
 
 # Data needs to be recieved
 
 - Logo in png
-- Team member names and Pic
+- Team member Pics
 - Any 4 customer name or any randon 4 names to give in review section
 
 ### Add price split here (We'll quote 20k) :
@@ -52,6 +48,3 @@ Caption: Forget your troubles,travel with us
 
 - Domain (3663.30₹): 4000₹
 
-### navabra issue
-
-alignment changed to center as in default website. if we change logo lookwise it will become perfect , ask for logo or else tell them we will make logo. from my kannur office there is one designer he will make. this one is worst one which we are using so just talk to them and see. 
