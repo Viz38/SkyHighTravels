@@ -16,8 +16,6 @@ Caption: Forget your troubles,travel with us
 
 # Remaining work
 
-- Favicon needs to be changed
-
 ## Home Section
 
 - Logo need to be made a PNG
