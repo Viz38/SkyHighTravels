@@ -23,22 +23,18 @@ Caption: Forget your troubles,travel with us
 - Logo need to be made a PNG
 - Images needs to be changed
 - Add services offered (one more box remaining)
-- Remove review images add proper names and reviews
 
 ## Packages Section
 
 - Images needs to be changed
-- Add more packages details (I have the data) 
 
 ## AboutUs Section
 
-- Team pic and names
-- Remove review images add proper names and reviews
+- Team pic
 
 ## Contact Section
 
 - Add maps (given request to google, waiting for response)
-- Remove send mail and make 2 buttons insted. "Call us" and "Maill us" button at the new gap
 
 # Data needs to be recieved
 
