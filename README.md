@@ -20,7 +20,6 @@ Caption: Forget your troubles,travel with us
 
 - Logo need to be made a PNG
 - Images needs to be changed
-- Add services offered (one more box remaining)
 
 ## Packages Section
 
