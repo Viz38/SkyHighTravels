@@ -391,43 +391,6 @@ button:focus {
     .header_area.navbar_fixed .main_menu .navbar .primary-btn {
       margin-top: 15px; }
 
-#search_input_box {
-  text-align: center;
-  padding: 5px 20px;
-  position: fixed;
-  width: 100%; }
-  #search_input_box .form-control {
-    background: transparent;
-    border: 0;
-    color: #ffffff;
-    font-weight: 400;
-    font-size: 15px;
-    padding: 0; }
-    #search_input_box .form-control:focus {
-      box-shadow: none;
-      outline: none; }
-  #search_input_box input.placeholder {
-    color: #ffffff;
-    font-size: 14px; }
-  #search_input_box input:-moz-placeholder {
-    color: #ffffff;
-    font-size: 14px; }
-  #search_input_box input::-moz-placeholder {
-    color: #ffffff;
-    font-size: 14px; }
-  #search_input_box input::-webkit-input-placeholder {
-    color: #ffffff;
-    font-size: 14px; }
-  #search_input_box .btn {
-    width: 0;
-    height: 0;
-    padding: 0;
-    border: 0; }
-  #search_input_box .lnr-cross {
-    color: #fff;
-    font-weight: 600;
-    cursor: pointer;
-    padding: 10px 3px; }
 
 @media (max-width: 991px) {
   /* Main Menu Area css
@@ -2397,10 +2360,10 @@ h6 {
     font-size: 18px;
     font-weight: 700; }
   .footer-area .footer_top {
-    padding-bottom: 80px; }
+    padding-bottom: 5px; }
     @media (max-width: 991px) {
       .footer-area .footer_top {
-        padding-bottom: 40px; } }
+        padding-bottom: 40px;} }
 
 .instafeed {
   margin: 0px;
