@@ -37,7 +37,6 @@ Caption: Forget your troubles,travel with us
 
 - Logo in png
 - Team member Pics
-- Any 4 customer name or any randon 4 names to give in review section
 
 ### Add price split here (We'll quote 20k) :
 
