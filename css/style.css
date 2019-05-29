@@ -105,13 +105,13 @@ button:focus {
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 .section_gap {
-  padding: 120px 0; }
+  padding: 40px 0px 50px 0px; }
   @media (max-width: 1199px) {
     .section_gap {
       padding: 80px 0; } }
 
 .section_gap_top {
-  padding-top: 120px; }
+  padding-top: 0px; }
   @media (max-width: 1199px) {
     .section_gap_top {
       padding-top: 80px; } }
@@ -126,7 +126,8 @@ button:focus {
 ============================================================================================ */
 .main_title {
   text-align: center;
-  margin-bottom: 75px; }
+  margin-bottom: 60px;
+margin-top: 30px; }
   @media (max-width: 1199px) {
     .main_title {
       margin-bottom: 40px; } }
@@ -654,7 +655,7 @@ button:focus {
 ============================================================================================ */
 .feature-area {
   position: relative;
-  padding-bottom: 90px; }
+  padding-bottom: 0px; }
   @media (max-width: 1199px) {
     .feature-area {
       padding-bottom: 50px; } }
@@ -849,7 +850,7 @@ button:focus {
 /* Team Area css
 ============================================================================================ */
 .team_area {
-  padding-bottom: 90px; }
+  padding-bottom: 10px; }
   @media (max-width: 1199px) {
     .team_area {
       padding-bottom: 60px; } }
@@ -2498,4 +2499,9 @@ h6 {
 .custom-callus-btn
   {
     margin: 0px 6px !important;
+  }
+
+ .custom-container
+  {
+    padding-top: 50px !important;
   }
