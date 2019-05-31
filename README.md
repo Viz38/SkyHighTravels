@@ -20,7 +20,6 @@ Caption: Forget your troubles,travel with us
 
 - Logo need to be made a PNG
 - Images needs to be changed
-- Customer review section, names and starts missing
 
 ## Packages Section
 
@@ -28,7 +27,7 @@ Caption: Forget your troubles,travel with us
 
 ## AboutUs Section
 
-- Customer review section, names and starts missing
+- finished
 
 ## Contact Section
 
@@ -43,4 +42,3 @@ Caption: Forget your troubles,travel with us
 #### (in brackets give original price for our reference)
 
 - Domain (3663.30₹): 4000₹
-
