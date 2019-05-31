@@ -20,6 +20,7 @@ Caption: Forget your troubles,travel with us
 
 - Logo need to be made a PNG
 - Banner change
+- Add review text
 
 # Data needs to be recieved
 
