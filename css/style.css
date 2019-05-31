@@ -2505,3 +2505,13 @@ h6 {
   {
     padding-top: 50px !important;
   }
+
+  .custom-call-btn
+    {
+      color: #ffffff !important;
+    }
+    .custom-call-btn:hover 
+      {
+        background-color: none !important;
+        color: #ffffff !important;
+      }
