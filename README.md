@@ -25,14 +25,6 @@ Caption: Forget your troubles,travel with us
 
 - Images needs to be changed
 
-## AboutUs Section
-
-- finished
-
-## Contact Section
-
-- Add maps (given request to google, waiting for response)
-
 # Data needs to be recieved
 
 - Logo in png
