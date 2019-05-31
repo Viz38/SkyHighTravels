@@ -20,6 +20,7 @@ Caption: Forget your troubles,travel with us
 
 - Logo need to be made a PNG
 - Images needs to be changed
+- Customer review section, names and starts missing
 
 ## Packages Section
 
@@ -27,7 +28,7 @@ Caption: Forget your troubles,travel with us
 
 ## AboutUs Section
 
-- Team pic
+- Customer review section, names and starts missing
 
 ## Contact Section
 
@@ -36,7 +37,6 @@ Caption: Forget your troubles,travel with us
 # Data needs to be recieved
 
 - Logo in png
-- Team member Pics
 
 ### Add price split here (We'll quote 20k) :
 
