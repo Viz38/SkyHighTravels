@@ -25,6 +25,7 @@ Caption: Forget your troubles,travel with us
 # Data needs to be recieved
 
 - Logo in png
+- Review images
 
 ### Add price split here (We'll quote 20k) :
 
