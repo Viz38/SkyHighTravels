@@ -19,11 +19,7 @@ Caption: Forget your troubles,travel with us
 ## Home Section
 
 - Logo need to be made a PNG
-- Images needs to be changed
-
-## Packages Section
-
-- Images needs to be changed
+- Banner change
 
 # Data needs to be recieved
 
