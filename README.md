@@ -2,30 +2,27 @@
 
 Name: SkyHighTravels
 
-Images: They have an insta and Fb page, We'll take from that (In img folder)
+Images: Added
 
-Logo: The one in ppt (in Images folder)
-
-Deadline: 20 May 2019
+Logo: Yet to be provided
 
 Caption: Forget your troubles,travel with us
 
-## Domain:
+Site: http://www.skyhightravels.co/
 
-Skyhightravels.co - 
-829₹ for 1 yrs + ₹2,239.00/yr (As on Godaddy.com)
+# _got some cool site all free_
 
-## Spl Reqests:
-
-- Make a professional mail id if possible (will get with domain)
-- An option to send mail directly from site. (like a review column or something)
-
- #### NOTE: furthure details i will sahre with you first we will complete these things
-
-*got some cool site all free*
 [main url](https://colorlib.com/wp/free-travel-website-templates/)
 
+# Remaining work
 
-# Mod to do later
-- We'll remove 'blog' (from nav bar)
-- remove 'pages' and will make it 'about' (from nav bar)
+## Home Section
+
+- Logo need to be made a PNG
+- Banner change
+
+# Data needs to be recieved
+
+- Logo in png
+- Review images
+
