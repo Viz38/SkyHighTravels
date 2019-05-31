@@ -4,11 +4,11 @@ Name: SkyHighTravels
 
 Images: Added
 
-Logo: The one in ppt (in Images folder)
-
-Deadline: 27 May 2019
+Logo: Yet to be provided
 
 Caption: Forget your troubles,travel with us
+
+Site: http://www.skyhightravels.co/
 
 # _got some cool site all free_
 
@@ -20,15 +20,9 @@ Caption: Forget your troubles,travel with us
 
 - Logo need to be made a PNG
 - Banner change
-- Add review text
 
 # Data needs to be recieved
 
 - Logo in png
 - Review images
 
-### Add price split here (We'll quote 20k) :
-
-#### (in brackets give original price for our reference)
-
-- Domain (3663.30₹): 4000₹
