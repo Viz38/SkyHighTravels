@@ -485,7 +485,7 @@ margin-top: 30px; }
 /* Home Banner Area css
 ============================================================================================ */
 .home_banner_area {
-  background: url(../img/banner/home-banner.png) no-repeat center center;
+  background: url(./../img/banner/home-banner.jpg) no-repeat center center;
   background-size: cover;
   min-height: 900px; }
   @media (max-width: 991px) {
@@ -506,7 +506,8 @@ margin-top: 30px; }
     .home_banner_area .banner_inner .banner_content h2 {
       margin-top: 0px;
       font-size: 120px;
-      color: #fff; }
+      color: #304e6d;
+       }
       @media (max-width: 991px) {
         .home_banner_area .banner_inner .banner_content h2 {
           font-size: 80px; } }
@@ -518,7 +519,10 @@ margin-top: 30px; }
     .home_banner_area .banner_inner .banner_content p {
       margin: 0px;
       font-weight: 400;
-      text-transform: uppercase; }
+      text-transform: uppercase;
+      color: #494b4d;
+      font-weight: 500;
+    }
 
 /* common Banner Area css
 ============================================================================================ */
