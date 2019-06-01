@@ -2523,3 +2523,12 @@ h6 {
         background-color: none !important;
         color: #ffffff !important;
       }
+
+      .WhyUS
+       {
+         margin-left: auto;
+         margin-right: auto;
+         text-align: center;
+         font-size: 17px;
+    color: #888888;
+       }
