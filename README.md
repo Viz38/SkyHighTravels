@@ -17,6 +17,5 @@ Site: http://www.skyhightravels.co/
 # Remaining work
 
 - Adding package price
-- Spelling and gramer errors
 
 
