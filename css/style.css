@@ -265,7 +265,7 @@ margin-top: 30px; }
       .header_area .navbar .nav .nav-item .nav-link {
         font: 600 12px/80px "Roboto", sans-serif;
         text-transform: uppercase;
-        color: #5484b5;
+        color: #ffffff;
         padding: 0px;
         display: inline-block; }
         .header_area .navbar .nav .nav-item .nav-link:after {
@@ -274,7 +274,7 @@ margin-top: 30px; }
           .header_area .navbar .nav .nav-item .nav-link {
             color: #5484b5; } }
       .header_area .navbar .nav .nav-item:hover .nav-link, .header_area .navbar .nav .nav-item.active .nav-link {
-        color: #304e6d; }
+        color: #ffffff; }
         .nav-link:hover
          {
           color: #304e6d; 
@@ -510,7 +510,7 @@ margin-top: 30px; }
     .home_banner_area .banner_inner .banner_content h2 {
       margin-top: 0px;
       font-size: 120px;
-      color: #304e6d;
+      color: #ffffff;
        }
       @media (max-width: 991px) {
         .home_banner_area .banner_inner .banner_content h2 {
@@ -524,7 +524,7 @@ margin-top: 30px; }
       margin: 0px;
       font-weight: 400;
       text-transform: uppercase;
-      color: #494b4d;
+      color: #ffffff;
       font-weight: 500;
     }
 
