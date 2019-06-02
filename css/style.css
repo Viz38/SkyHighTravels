@@ -693,6 +693,10 @@ margin-right: auto;
     border: 1px solid transparent;
     box-shadow: 0px 5px 50px rgba(129, 74, 255, 0.2); }
 
+    .feature-details p {
+      font-weight: 500;
+    }
+
 /* End Feature Area css
 ============================================================================================ */
 /* Start CTA Area css
