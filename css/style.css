@@ -130,6 +130,7 @@ button:focus {
 margin-top: 30px; 
 margin-left: auto;
 margin-right: auto;
+ width:100%;
 }
   @media (max-width: 1199px) {
     .main_title {
